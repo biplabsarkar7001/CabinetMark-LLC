@@ -193,7 +193,7 @@ nav .search-box a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("../Asset/image/banner\ \(2\).png") no-repeat center/cover;
+  background: url("./asset/image/banner.png") no-repeat center/cover;
   min-height: 100vh;
   padding-top: 100px;
 }
